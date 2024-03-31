@@ -1,0 +1,31 @@
+{
+  "name": "node-microservices-grocery",
+  "version": "1.0.0",
+  "description": "NodeJS Microservice Architecture Example with realtime project as Grocery App",
+  "author": "Sulthon Abdul Malik <sulthon.abdmalik@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "format": "prettier -w \"{customer,gateway}/{config,db,public,src}/**/*.{md,html,css,json,js,ts}\"",
+    "prepare": "husky install"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "husky": "^7.0.4",
+    "lint-staged": "^12.5.0",
+    "prettier": "^3.2.4"
+  },
+  "keywords": [
+    "node",
+    "nodejs",
+    "express",
+    "expressjs",
+    "microservices",
+    "grocery"
+  ],
+  "repository": "https://github.com/ssamsara98/node-microservices-grocery.git",
+  "bugs": "https://github.com/ssamsara98/node-microservices-grocery/issues",
+  "homepage": "https://github.com/ssamsara98/node-microservices-grocery#readme",
+  "lint-staged": {
+    "*.{md,html,css,json,js,ts}": "prettier -w"
+  }
+}

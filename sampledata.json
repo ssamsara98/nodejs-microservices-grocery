@@ -1,0 +1,93 @@
+[
+  {
+    "name": "Alphonso Mango",
+    "description": "great Quality of Mango",
+    "banner": "http://codergogoi.com/youtube/images/alphonso.jpeg",
+    "type": "fruits",
+    "unit": 10000,
+    "price": 300,
+    "available": true,
+    "suplier": "Golden seed firming",
+    "createdAt": "2024-03-30T05:53:35.569+00:00",
+    "updatedAt": "2024-03-30T05:53:35.569+00:00",
+    "__v": 0
+  },
+  {
+    "name": "Apples",
+    "description": "great Quality of Apple",
+    "banner": "http://codergogoi.com/youtube/images/apples.jpeg",
+    "type": "fruits",
+    "unit": 10000,
+    "price": 140,
+    "available": true,
+    "suplier": "Golden seed firming",
+    "createdAt": "2024-03-30T05:53:36.569+00:00",
+    "updatedAt": "2024-03-30T05:53:36.569+00:00",
+    "__v": 0
+  },
+  {
+    "name": "Kesar Mango",
+    "description": "great Quality of Mango",
+    "banner": "http://codergogoi.com/youtube/images/kesar.jpeg",
+    "type": "fruits",
+    "unit": 10000,
+    "price": 170,
+    "available": true,
+    "suplier": "Golden seed firming",
+    "createdAt": "2024-03-30T05:53:37.569+00:00",
+    "updatedAt": "2024-03-30T05:53:37.569+00:00",
+    "__v": 0
+  },
+  {
+    "name": "Langra Mango",
+    "description": "great Quality of Mango",
+    "banner": "http://codergogoi.com/youtube/images/langra.jpeg",
+    "type": "fruits",
+    "unit": 10000,
+    "price": 280,
+    "available": true,
+    "suplier": "Golden seed firming",
+    "createdAt": "2024-03-30T05:53:38.569+00:00",
+    "updatedAt": "2024-03-30T05:53:38.569+00:00",
+    "__v": 0
+  },
+  {
+    "name": "Broccoli",
+    "description": "great Quality of Fresh Vegetable",
+    "banner": "http://codergogoi.com/youtube/images/broccoli.jpeg",
+    "type": "vegetables",
+    "unit": 10000,
+    "price": 280,
+    "available": true,
+    "suplier": "Golden seed firming",
+    "createdAt": "2024-03-30T05:53:39.569+00:00",
+    "updatedAt": "2024-03-30T05:53:39.569+00:00",
+    "__v": 0
+  },
+  {
+    "name": "Cauliflower",
+    "description": "great Quality of Fresh Vegetable",
+    "banner": "http://codergogoi.com/youtube/images/cauliflower.jpeg",
+    "type": "vegetables",
+    "unit": 10000,
+    "price": 280,
+    "available": true,
+    "suplier": "Golden seed firming",
+    "createdAt": "2024-03-30T05:53:40.569+00:00",
+    "updatedAt": "2024-03-30T05:53:40.569+00:00",
+    "__v": 0
+  },
+  {
+    "name": "Olive Oil",
+    "description": "great Quality of Oil",
+    "banner": "http://codergogoi.com/youtube/images/oliveoil.jpg",
+    "type": "oils",
+    "unit": 10000,
+    "price": 400,
+    "available": true,
+    "suplier": "Golden seed firming",
+    "createdAt": "2024-03-30T05:53:40.569+00:00",
+    "updatedAt": "2024-03-30T05:53:40.569+00:00",
+    "__v": 0
+  }
+]
